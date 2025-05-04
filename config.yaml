@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$7yA0mweRcGP1sVQWC7.C1OX6WjxG0mI7TNCCw3.Q.zYnaDQQGz7gO  # Password: admin123
+    user:
+      email: user@example.com
+      name: Regular User
+      password: $2b$12$vUnAMLbGmMjmN1ateSZwCOl6236RyVwCGk2EznL/oBBNxUh5N69e.  # Password: password123
+cookie:
+  expiry_days: 30
+  key: real_estate_dashboard
+  name: dashboard_auth 
